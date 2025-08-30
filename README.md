@@ -4,9 +4,6 @@ Web Scraping Project
 ## Description
 This project consists of multiple web scraping scripts designed to extract information from various websites. The scripts utilize Python and its libraries, such as `requests` and `BeautifulSoup`, to fetch and parse HTML content.
 
-## Python Version
-This project is compatible with Python 3.12.
-
 ## Features
 * Web scraping of job listings from [timesjobs.com](http://timesjobs.com)
 * Web scraping of course information from static HTML files
